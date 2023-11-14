@@ -20,7 +20,7 @@ class Light extends React.PureComponent {
                     "duration": 0.1
                 },
                 "rate": {
-                    "quantity": 1,
+                    "quantity": 3,
                     "delay": 0.5
                 },
                 "shape": "square",
