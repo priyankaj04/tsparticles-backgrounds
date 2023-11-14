@@ -3,9 +3,9 @@
 Creating cool, fun and interactive backgrounds for websites in react and react-particles
 
 **Reference** 
-* (Particaljs offical website)[https://particles.js.org/]
-* (Offical Github repo)[https://github.com/tsparticles/tsparticles]
-* (Offical Preset repo)[https://github.com/tsparticles/presets]
+* [Particaljs offical website](https://particles.js.org/)
+* [Offical Github repo](https://github.com/tsparticles/tsparticles)
+* [Offical Preset repo](https://github.com/tsparticles/presets)
 
 **1. Links**
 
