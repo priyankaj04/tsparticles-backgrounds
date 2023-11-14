@@ -1,68 +1,64 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# tsparticles - backgrounds 
 
-## Available Scripts
+Creating cool, fun and interactive backgrounds for websites in react and react-particles
 
-In the project directory, you can run:
+**Reference** 
+* (Particaljs offical website)[https://particles.js.org/]
+* (Offical Github repo)[https://github.com/tsparticles/tsparticles]
+* (Offical Preset repo)[https://github.com/tsparticles/presets]
 
-### `npm start`
+**1. Links**
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screenshot from 2023-11-14 10-12-25](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/6abb0a0a-410e-4af8-b31b-84ceba495dbd)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+**2. Tunnel**
 
-### `npm test`
+![Screenshot from 2023-11-14 10-13-32](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/9b9bf02c-437f-42b1-be75-adbb2ea05d17)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**3. Colors**
 
-### `npm run build`
+![Screenshot from 2023-11-14 10-15-19](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/93bb6e2c-03bc-4710-9221-877d6e205d91)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**4. Amongus**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Screenshot from 2023-11-14 10-15-53](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/1fb6c9c5-4e4a-4092-8863-8a518b42013a)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**5. Confetti**
 
-### `npm run eject`
+![Screenshot from 2023-11-14 10-17-32](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/2e18921f-8811-4ef4-bbbc-962cb72510d7)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**6. Confetti Explosion**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot from 2023-11-14 10-19-16](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/5633b312-8105-41b6-afd0-fe18a52be54a)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**7. Fireworks**
 
-## Learn More
+![Screenshot from 2023-11-14 10-22-59](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/a5016cff-d66f-448c-b26d-6c1fbd6e3f3e)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**8. Polygon Mask**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot from 2023-11-14 10-24-22](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/3445cee9-3130-4ecc-a496-6846409795d7)
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+**9. Sea Anemone**
 
-### Analyzing the Bundle Size
+![Screenshot from 2023-11-14 10-25-06](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/f00bffcf-6c6b-4ef6-884e-877465f6b515)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+**10. Side Confetti**
 
-### Making a Progressive Web App
+![Screenshot from 2023-11-14 10-26-04](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/956bac29-d1fb-43a2-bc69-6ad2325dac27)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+**11. Parallax**
 
-### Advanced Configuration
+![Screenshot from 2023-11-14 10-27-36](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/1ab1ff96-8cfe-4b4c-af2c-2986c9f8a4ed)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+**12. Hyperspace**
 
-### Deployment
+![Screenshot from 2023-11-14 10-28-06](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/95e23345-522e-4d9e-960f-9aa7e64e8ab3)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+**13. Hexagon**
 
-### `npm run build` fails to minify
+![Screenshot from 2023-11-14 10-29-48](https://github.com/priyankaj04/tsparticles-backgrounds/assets/103273242/c529eb73-4f19-464c-baf5-ef61ae0e2b79)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Thankyou!!
